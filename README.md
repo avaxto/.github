@@ -3,7 +3,7 @@
 AVAX goodies! Free OSS software for Avalanche enthusiasts.
 
 
-![AVAX TOrtillas!](https://assets.avax.to/images/avaxto_white.png)
+![AVAX TOrtillas!](https://assets.avax.to/images/avaxto.png)
 
 
 [Follow us on Twitter!](https://twitter.com/avaxto)
