@@ -1,15 +1,13 @@
-# AVAX TOrtillas!
+# Welcome to AVAX Toolbox!
 
-AVAX goodies! Free OSS software for Avalanche enthusiasts.
+The [home of $AVXTO](https://dexscreener.com/avalanche/0x2bdebde7e1088e42aafef104b5f7457aca5ab86f)!!
 
-
-![AVAX TOrtillas!](https://assets.avax.to/images/avaxto.png)
-
+Here we build free OSS software for Avalanche enthusiasts.
 
 [Follow us on Twitter!](https://twitter.com/avaxto)
 
 
-Hand crafted by [AVAX.to](https://avax.to)
+Join our Telegram group at: [AVAX.to](https://avax.to)
 
 
 ## Legal Notices
